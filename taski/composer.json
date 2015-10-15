@@ -1,0 +1,9 @@
+{
+    "require": {
+        "slim/slim": "^2.6",
+        "twbs/bootstrap": "^3.3",
+        "components/jquery": "^2.1",
+        "tuupola/slim-basic-auth": "^1.0",
+        "moment/moment": "^2.10"
+    }
+}
